@@ -1,0 +1,10 @@
+Required libraries:
+numpy
+pandas
+matplotlib
+scikit-learn
+re
+nltk
+gensim
+tensorflow
+wordcloud
